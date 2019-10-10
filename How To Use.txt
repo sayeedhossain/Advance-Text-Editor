@@ -1,4 +1,4 @@
-                                                                               For WINDOWS user:
+For WINDOWS user:
 
 step1: git clone or download the zip file.Then extract it in your favourite path/folder.Then find out the Text Editor-0.01-win32(1).msi file. 
 

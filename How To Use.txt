@@ -1,0 +1,22 @@
+                                                                               For WINDOWS user:
+
+step1: git clone or download the zip file.Then extract it in your favourite path/folder.Then find out the Text Editor-0.01-win32(1).msi file. 
+
+step2: Then double clikc on it for start installation process .The process is as like as a normal software or exe file.It may take some second.So keep patient.
+
+After complete the installation process.You can't find it on your Desktop.
+So that's why you should follow the step3.
+
+step3: Then go to the C:\Program Files (x86)\Text Editor path
+
+stpe4: Here you can see an .exe file that is text editor.exe
+
+step5: Now all is ok.Just click on the text editor.exe file to run this.
+
+Now enjoy it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Linux and Mac user:
+
+git clone or download the zip file.Then extract it in your favourite path/folder.Now all is ok.Just open your termianl on this path or paste it on other python IDE .Then run the text editor.py code.
+Now enjoy it!!!!!!!!!!!!!!!!!!!!
